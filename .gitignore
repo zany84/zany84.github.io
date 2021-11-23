@@ -29,7 +29,7 @@ $RECYCLE.BIN/
 .env
 
 # Static content
-_site/
+#_site/
 # Uncomment the following line if you want to commit all images to source control. This will def speed up build time.
 # !_site/assets/images
 
